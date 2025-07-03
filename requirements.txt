@@ -2,8 +2,8 @@ streamlit
 pandas
 requests
 beautifulsoup4
+transformers
+torch
 plotly
 numpy<2
-torch==2.2.2
-transformers==4.40.1
 sentencepiece
