@@ -3,6 +3,9 @@ import pandas as pd
 import streamlit as st
 import plotly.express as px
 
+st.write("Installed packages:")
+st.code(subprocess.getoutput("pip freeze"))
+
 st.set_page_config(page_title="📰 Indian News Analyzer", layout="wide")
 
 # Automatically run analysis if CSV missing
