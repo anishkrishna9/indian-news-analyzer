@@ -5,4 +5,3 @@ beautifulsoup4
 transformers
 torch
 plotly
-sentencepiece==0.1.99
