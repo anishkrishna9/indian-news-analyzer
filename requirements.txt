@@ -5,5 +5,4 @@ beautifulsoup4
 transformers
 torch
 plotly
-numpy<2
-sentencepiece
+sentencepiece==0.1.99
